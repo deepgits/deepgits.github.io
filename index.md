@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Profile
 
-You can use the [editor on GitHub](https://github.com/deepgits/deepgits.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, I am Deep Maheshwari, Btech Computer Science(2018-2022) IIT Tirupati. I am from India. I hope you find my profile exiting. To know more about me and my work, get a nice walkthrough of this website.
 
 ### Markdown
 

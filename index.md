@@ -1,6 +1,6 @@
 ## Welcome to My Profile
 
-Hi, I am Deep Maheshwari, Btech Computer Science(2018-2022) IIT Tirupati. I am from India. I hope you find my profile exiting. To know more about me and my work, get a nice walkthrough of this website.
+Hi, I am Deep Maheshwari, Bachelor of technology in Computer Science (2018-2022) from IIT Tirupati. I am from India. I hope you find my profile exiting. To know more about me and my work, get a nice walkthrough of this website.
 
 ### Markdown
 

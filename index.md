@@ -16,7 +16,7 @@ I’m fascinated by how geography, geomorphology, and the environment have shape
 
 
 **Now**
-I am currently working on building a platform to empower digital publishers
+I am currently working on building a platform to empower digital publishers.
 
 
 

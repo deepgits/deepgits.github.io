@@ -12,4 +12,13 @@ I have a strong interest in politics and history, with a particular focus on how
 
 
 
+
+
+
+
+
+I am currently working on building a platform to empower digital publishers
+
+
+
 Feel free to email me at [anudeep@chirumalla.com](mailto:anudeep@chirumalla.com) 👋

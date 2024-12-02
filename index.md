@@ -2,14 +2,12 @@
 
 
 
- I am a CS Grad and a technology generalist interested in product innovation, high-performance systems, internet companies, and all sorts of technology. I can deep dive into tech and go wide in business applications as needed. I believe in an all-hands-on-deck attitude, which is the fastest way to learn and grow.
+I’m a Computer Science graduate and technology generalist with a passion for product innovation, high-performance systems, and the ever-evolving world of internet companies. My approach combines a deep dive into technical intricacies with a broad understanding of business applications, enabling me to navigate and lead effectively across diverse domains. I thrive in dynamic environments, embracing an all-hands-on-deck attitude as the fastest way to learn and grow.
 
-I used to work for HCL Tech as a senior engineer looking after a top US telecom operator by facilitating their change management and business transformation projects. Before that, I have worked for multiple large MNCs, and before that, I traveled to France to do my MBA.
+Professionally, I’ve proven my capability in handling product development and driving organizational success. As a Senior Engineer at HCL Technologies, I facilitated change management and business transformation projects for a leading US telecom operator. Before that, I worked at Tech Mahindra, contributing to AI enablement projects for a Big Tech company’s AI research division. My role involved testing AI models by feeding data and training large language models (LLMs) to improve their accuracy and performance. My career also includes roles at global MNCs, and I enhanced my perspective on business and technology integration during my MBA studies in France.
 
-ICEBREAKERS: Travel, Entrepreneurship.
-
-I have a strong interest in politics and history, with a particular focus on how geography and the environment have shaped human societies.
-
+**Beyond Work**
+I’m fascinated by how geography, geomorphology, and the environment have shaped human societies over time, tying my interests in politics and history to a broader understanding of global dynamics. My personal icebreakers? Travel and entrepreneurship — two pursuits that constantly inspire me and fuel my drive to innovate and create.
 
 
 
@@ -17,6 +15,7 @@ I have a strong interest in politics and history, with a particular focus on how
 
 
 
+**Now**
 I am currently working on building a platform to empower digital publishers
 
 

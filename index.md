@@ -16,7 +16,7 @@ I’m fascinated by how geography, geomorphology, and the environment have shape
 
 
 **Now**
-I am currently working on building a platform to empower digital publishers.
+I am currently envisioning brevity with a mission to develop a modern, opinion-driven, and go-to news source based on the East Coast of India, prioritizing local stories, expanding to national narratives, and connecting to global perspectives—delivering concise and impactful news that resonates with today’s readers.
 
 
 

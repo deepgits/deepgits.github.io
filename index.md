@@ -1,6 +1,7 @@
 Hello, I am Anudeep, thank you for visiting my site
 
 **Now**
+
 → I am currently envisioning brevity with a mission to develop opinion-driven, and go-to news source based on the East Coast of India, prioritising local stories, expanding to national narratives, and connecting to global perspectives. VISIT [www.sunrisestate.in](https://sunrisestate.in)
 
 ~~I’m a Computer Science graduate and technology generalist with a passion for product innovation, high-performance systems, and all sorts of technology. My approach combines a deep dive into technical intricacies with a broad understanding of business applications, enabling me to navigate and lead effectively across diverse domains. I thrive in dynamic environments, embracing an all-hands-on-deck attitude as the fastest way to learn and grow.

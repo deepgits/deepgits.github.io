@@ -6,7 +6,7 @@ AUM as of 13th October 2025: 0.00 Cr
 
 I provide personalised guidance to help you navigate the world of mutual funds and achieve your financial goals with confidence and discipline.
 
-**Principles**
+***Principles***
 
 1. Personalisation and Goal Alignment
 Your financial journey is unique; I will tailor investment strategies by understanding your specific situation, aspirations, and risk tolerance. This ensures every plan is custom-built to meet your individual short-term and long-term goals.

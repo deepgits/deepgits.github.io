@@ -3,7 +3,7 @@ Professionally, I’ve proven my capability in handling product development and 
 
 **Now**
 → I am currently envisioning brevity with a mission to develop opinion-driven, and go-to news source based on the East Coast of India, prioritising local stories, expanding to national narratives, and connecting to global perspectives. VISIT [www.sunrisestate.in](https://sunrisestate.in)
-→ I will help you plan your portfolio. VISIT [chirumalla.com/mf](https://chirumalla.com/mf)
+→ And also, I will help you plan your portfolio. VISIT [chirumalla.com/mf](https://chirumalla.com/mf)
 
 Feel free to email me at [anudeep@chirumalla.com](mailto:anudeep@chirumalla.com) 👋
 

@@ -2,7 +2,9 @@ Hello, I am Anudeep, thank you for visiting my site
 
 **Now**
 
-→ I am currently envisioning brevity with a mission to develop opinion-driven, and go-to news source based on the East Coast of India, prioritising local stories, expanding to national narratives, and connecting to global perspectives. VISIT [www.sunrisestate.in](https://sunrisestate.in)
+→ I am currently envisioning brevity with a mission to develop opinion-driven, and go-to news source based on the East Coast of India, prioritising local stories, expanding to national narratives, and connecting to global perspectives. 
+
+VISIT [www.sunrisestate.in](https://sunrisestate.in)
 
 
 

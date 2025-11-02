@@ -1,5 +1,7 @@
 **Anudeep Chirumalla**
+
 **ARN:** **342586**
+
 AUM as of 13th October 2025: 0.00 Cr
 
 I provide personalised guidance to help you navigate the world of mutual funds and achieve your financial goals with confidence and discipline.

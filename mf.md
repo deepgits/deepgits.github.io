@@ -37,7 +37,7 @@ Lets get aced in to mutual fund investment in following order !!
  
  • ✓ I have my HEALTH covered
  
-       and [contact me](TEL:+919988575709) ,  CELL: +91 99 88 57 57 09
+       and [contact me](tel:919988575709) ,  CELL: +91 99 88 57 57 09
 
 
 

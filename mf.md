@@ -6,7 +6,7 @@
 
 I provide personalised guidance to help you navigate the world of mutual funds and achieve your financial goals with confidence and discipline.
 
-****Principles****
+<u>Principles</u>
 
 **1. Personalisation and Goal Alignment**
 
